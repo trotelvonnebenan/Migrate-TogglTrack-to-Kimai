@@ -39,7 +39,7 @@ This script automates the transition by creating **Customers** in Kimai and auto
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/toggl-to-kimai-migrator.git](https://github.com/yourusername/toggl-to-kimai-migrator.git)
+   git clone https://github.com/trotelvonnebenan/Migrate-TogglTrack-to-Kimai.git
    cd toggl-to-kimai-migrator
 
 2. **Install dependencies:**
